@@ -23,7 +23,7 @@ Antes de diseñar cualquier solución, tomo distancia para ver el panorama compl
 
 Recién ahí pienso en cómo simplificarlo: clasificar, organizar, hacerlo escalable y fácil de seguir para cualquiera que lo use _(facilitar la vida con un clic)_.
 
-No me quedo solo en lo que "me parece" que la gente necesita. Me gusta indagar y buscar evidencia real: _un test de usabilidad, una entrevista, hablar con quienes van a usar la solución, un dato de analytics._ **Porque lo que para mí puede ser lógico no siempre coincide con la lógica de otros.**
+No me quedo solo en lo que "me parece" que la gente necesita. Me gusta indagar y buscar evidencia real: _un test de usabilidad, una entrevista, hablar con quienes necesitan/usan la solución, un dato de analytics._ **Porque lo que para mí puede ser lógico no siempre coincide con la lógica de otros.**
 
 Ahí reside la diferencia entre simplemente diseñar y _**diseñar pensando en usos, usuarios y utilidades**_.
 
