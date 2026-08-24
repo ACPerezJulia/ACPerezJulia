@@ -21,6 +21,8 @@ Vengo de una reconversión laboral: más de 15 años como abogada en el sector p
 
 Suelo observar todo el panorama primero: aprender y profundizar en cómo se trabajan las cosas, qué información es relevante, y el orden real de una estructura. Recién ahí pienso en soluciones y automatizaciones posibles — cómo clasificar y organizar esa información para que sea eficiente, escalable, y que cualquier otra persona pueda trabajarla después de "estructurarla". Que le simplifique la vida a todos con un clic.
 
+**Dato mata relato.** Antes de convertir una hipótesis en una decisión de diseño, prefiero contrastarla con evidencia — un test de usabilidad, una entrevista, un dato de analytics, un comportamiento observado. Lo que creemos que las personas hacen no siempre coincide con lo que realmente hacen, y ahí es donde el diseño se pone interesante: cuando dejamos de defender una idea propia y empezamos a validarla. Diseñar con evidencia no es dejar de ser creativa; es usar la creatividad para hacer mejores preguntas, y los datos para tomar mejores decisiones.
+
 ## 🗂️ Proyectos
 
 <table>
