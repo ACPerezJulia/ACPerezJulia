@@ -19,9 +19,13 @@ Vengo de una reconversión laboral: más de 15 años como abogada en el sector p
 
 ## 🧭 Cómo encaro un proyecto
 
-Suelo observar todo el panorama primero: aprender y profundizar en cómo se trabajan las cosas, qué información es relevante, y el orden real de una estructura. Recién ahí pienso en soluciones y automatizaciones posibles — cómo clasificar y organizar esa información para que sea eficiente, escalable, y que cualquier otra persona pueda trabajarla después de "estructurarla". Que le simplifique la vida a todos con un clic.
+Antes de diseñar cualquier solución, tomo distancia para ver el panorama completo: "¿Qué, quién, cuándo, dónde, cómo, por qué y para qué?" Las famosas 6W que aprendí en Comunicación Social. Qué datos importan, cómo se usan, quién los usa, para qué, cuál es el orden real detrás de todo eso.
 
-**Dato mata relato.** Antes de convertir una hipótesis en una decisión de diseño, prefiero contrastarla con evidencia — un test de usabilidad, una entrevista, un dato de analytics, un comportamiento observado. Lo que creemos que las personas hacen no siempre coincide con lo que realmente hacen, y ahí es donde el diseño se pone interesante: cuando dejamos de defender una idea propia y empezamos a validarla. Diseñar con evidencia no es dejar de ser creativa; es usar la creatividad para hacer mejores preguntas, y los datos para tomar mejores decisiones.
+Recién ahí pienso en cómo simplificarlo: clasificar, organizar, hacerlo escalable y fácil de seguir para cualquiera que lo use (simplificar la vida con un clic).
+
+No me quedo solo en lo que "me parece" que la gente necesita. Me gusta indagar y buscar evidencia real: un test de usabilidad, una entrevista, hablar con quienes van a usar la solución, un dato de analytics. Porque lo que para mí puede ser lógico no siempre coincide con la lógica de otros.
+
+Ahí reside la diferencia entre simplemente diseñar y diseñar pensando en usos, usuarios y utilidades.
 
 ## 🗂️ Proyectos
 
