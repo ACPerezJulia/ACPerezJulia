@@ -15,17 +15,17 @@
 
 </div>
 
-Vengo de una reconversión laboral: más de 15 años como abogada en el sector público, hoy orientando mi carrera hacia el desarrollo **Frontend con foco en UX** — diseñar interfaces claras y flujos amigables para que la persona que usa el producto pueda concentrarse en lo que importa. Complemento esto con backend (Node.js/Python) y nociones de IA/automatización.
+Vengo de una reconversión laboral: más de 15 años como abogada en el sector público, hoy orientando mi carrera hacia el desarrollo **Frontend con foco en UX** - _diseñar interfaces claras y flujos amigables para que la persona que usa el producto pueda concentrarse en lo que importa._ Complemento esto con backend (Node.js/Python) y nociones de IA/automatización.
 
 ## 🧭 Cómo encaro un proyecto
 
-Antes de diseñar cualquier solución, tomo distancia para ver el panorama completo: "¿Qué, quién, cuándo, dónde, cómo, por qué y para qué?" Las famosas 6W que aprendí en Comunicación Social. Qué datos importan, cómo se usan, quién los usa, para qué, cuál es el orden real detrás de todo eso.
+Antes de diseñar cualquier solución, tomo distancia para ver el panorama completo: _"¿Qué, quién, cuándo, dónde, cómo, por qué / para qué?"_ Las famosas 6W que aprendí en Comunicación Social. Qué datos importan, cómo se usan, quién los usa, para qué, cuál es el orden real detrás de todo eso.
 
-Recién ahí pienso en cómo simplificarlo: clasificar, organizar, hacerlo escalable y fácil de seguir para cualquiera que lo use (simplificar la vida con un clic).
+Recién ahí pienso en cómo simplificarlo: clasificar, organizar, hacerlo escalable y fácil de seguir para cualquiera que lo use _(facilitar la vida con un clic)_.
 
-No me quedo solo en lo que "me parece" que la gente necesita. Me gusta indagar y buscar evidencia real: un test de usabilidad, una entrevista, hablar con quienes van a usar la solución, un dato de analytics. Porque lo que para mí puede ser lógico no siempre coincide con la lógica de otros.
+No me quedo solo en lo que "me parece" que la gente necesita. Me gusta indagar y buscar evidencia real: _un test de usabilidad, una entrevista, hablar con quienes van a usar la solución, un dato de analytics._ **Porque lo que para mí puede ser lógico no siempre coincide con la lógica de otros.**
 
-Ahí reside la diferencia entre simplemente diseñar y diseñar pensando en usos, usuarios y utilidades.
+Ahí reside la diferencia entre simplemente diseñar y _**diseñar pensando en usos, usuarios y utilidades**_.
 
 ## 🗂️ Proyectos
 
