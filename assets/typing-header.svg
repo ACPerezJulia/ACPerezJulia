@@ -1,0 +1,30 @@
+<svg width="820" height="130" viewBox="0 0 820 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#2d0b4e"/>
+                  <stop offset="50%" stop-color="#5b1fb8"/>
+                        <stop offset="100%" stop-color="#9b5cf6"/>
+                            </linearGradient>
+                                <clipPath id="reveal">
+                                      <rect x="0" y="0" height="130" width="0">
+                                              <animate attributeName="width" from="0" to="820" begin="0.3s" dur="2.6s" fill="freeze" calcMode="linear"/>
+                                                    </rect>
+                                                        </clipPath>
+                                                          </defs>
+
+                                                            <rect width="820" height="130" rx="14" fill="url(#bg)"/>
+
+                                                              <g clip-path="url(#reveal)">
+                                                                  <text x="40" y="58" font-family="'Courier New', monospace" font-size="30" font-weight="700" fill="#f3e8ff">
+                                                                        &#161;Hola! Soy Anal&#237;a &#128075;
+                                                                            </text>
+                                                                                <text x="40" y="95" font-family="'Courier New', monospace" font-size="19" fill="#d9b8ff">
+                                                                                      AI &amp; Automation Specialist · Gemini · Node.js/TypeScript
+                                                                                          </text>
+                                                                                            </g>
+
+                                                                                              <rect x="0" y="15" width="4" height="100" fill="#f3e8ff" opacity="0">
+                                                                                                  <animate attributeName="x" from="40" to="796" begin="0.3s" dur="2.6s" fill="freeze" calcMode="linear"/>
+                                                                                                      <animate attributeName="opacity" values="0;1;1;0;1;0;1;0" keyTimes="0;0.02;0.3;0.35;0.5;0.6;0.75;1" begin="0.3s" dur="3.5s" repeatCount="indefinite"/>
+                                                                                                        </rect>
+                                                                                                        </svg>
