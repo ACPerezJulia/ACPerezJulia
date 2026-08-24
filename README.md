@@ -6,17 +6,16 @@
 
 <div align="center">
 
-![Gemini](https://img.shields.io/badge/Gemini-8E5CF7?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-B983FF?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-7B2FF7?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-6A3FA0?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5B2A9E?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4B1E8C?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-9146FF?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7B2FF7?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-6A3FA0?style=for-the-badge&logo=typescript&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-B983FF?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-5B2A9E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4B1E8C?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
 
-Vengo de una reconversión laboral: más de 15 años como abogada en el sector público, hoy orientando mi carrera hacia el desarrollo — con foco en **IA & Automatización** (Gemini, prompt engineering, MCP) y backend con **Node.js/TypeScript**.
+Vengo de una reconversión laboral: más de 15 años como abogada en el sector público, hoy orientando mi carrera hacia el desarrollo **Frontend con foco en UX** — diseñar interfaces claras y flujos amigables para que la persona que usa el producto pueda concentrarse en lo que importa. Complemento esto con backend (Node.js/Python) y nociones de IA/automatización.
 
 ## 🧭 Cómo encaro un proyecto
 
@@ -28,22 +27,22 @@ Suelo observar todo el panorama primero: aprender y profundizar en cómo se trab
 <tr>
 <td width="50%">
 
-**[🤖 GitHub AI Agent](https://github.com/ACPerezJulia/mcp-github-agent)**
-Servidor MCP en Node.js/TypeScript con 9 herramientas de GitHub integradas y Gemini como LLM client.
+**[💰 Valora](https://github.com/nexotsolutions-creator/valora-wallet-frontend)**
+Billetera digital multi-moneda para freelancers de LATAM. Mi foco fue UX/UI: comprobantes en PNG, email transaccional claro. Equipo de 4 — 4.68/5.
 
 </td>
 <td width="50%">
 
 **[💬 LuffyChat](https://github.com/ACPerezJulia/SPA-Chat-ComicSansCon)**
-Chatbot con Gemini API vía Vercel Serverless Functions.
+Chat con integración de Gemini API, con foco en una interfaz de conversación simple y clara.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[💰 Valora](https://github.com/nexotsolutions-creator/valora-wallet-frontend)**
-Billetera digital multi-moneda para freelancers de LATAM. Proyecto final en equipo de 4 — 4.68/5.
+**[🤖 GitHub AI Agent](https://github.com/ACPerezJulia/mcp-github-agent)**
+Servidor MCP en Node.js/TypeScript con 9 herramientas de GitHub integradas y Gemini como LLM client.
 
 </td>
 <td width="50%">
