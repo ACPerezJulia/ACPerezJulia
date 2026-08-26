@@ -34,7 +34,7 @@ Ahí reside la diferencia entre simplemente diseñar y _**diseñar pensando en u
 <td width="50%">
 
 **[💰 Valora](https://github.com/nexotsolutions-creator/valora-wallet-frontend)**
-Billetera digital multi-moneda para freelancers de LATAM. Mi foco fue UX/UI: comprobantes en PNG, email transaccional claro. Equipo de 4 — 4.68/5.
+Billetera digital multi-moneda para freelancers de LATAM. Diseñé e implementé la integración con AWS SES, conecté backend y frontend. En UX/UI: comprobantes en PNG, email transaccional claro. Equipo de 4 — 4.68/5.
 
 </td>
 <td width="50%">
