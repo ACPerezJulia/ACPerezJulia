@@ -15,7 +15,7 @@
 
 </div>
 
-Vengo de una reconversión laboral: más de 15 años como abogada en el sector público, hoy orientando mi carrera hacia el desarrollo **Frontend con foco en UX** - _diseñar interfaces claras y flujos amigables para que la persona que usa el producto pueda concentrarse en lo que importa._ Complemento esto con backend (Node.js/Python) y nociones de IA/automatización.
+Abogada hace 10 años, con más de 15 años de trayectoria profesional (10 en el sector público, 5 en el privado), hoy orientando mi carrera hacia el desarrollo **Frontend con foco en UX** - _diseñar interfaces claras y flujos amigables para que la persona que usa el producto pueda concentrarse en lo que importa._ Complemento esto con backend (Node.js/Python) y nociones de IA/automatización.
 
 ## 🧭 Cómo encaro un proyecto
 
